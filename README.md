@@ -12,3 +12,13 @@ You can install this extension direct from Nuget:
 ```C#
 Install-Package LMB.PredicateBuilderExtension
 ```
+
+## LMB.PropertyExtension
+
+This extension contains methods for retrieving the Name value of an attribute of type System.ComponentModel.DataAnnotations.DisplayAttribute and the DisplayName value of an attribute of type System.ComponentModel.DisplayNameAttribute.
+
+You can install this extension direct from Nuget:
+
+```C#
+Install-Package LMB.PropertyExtension
+```
