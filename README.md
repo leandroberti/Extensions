@@ -27,7 +27,7 @@ Install-Package LMB.PropertyExtension
 
 Or you can download this github project and copy the PropertyExtension.cs file direct into your project.
 
-## Generic Entity Base
+## LMB.GenericEntityBase
 
 This is a template for creating entity models.
 
