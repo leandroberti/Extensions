@@ -27,14 +27,12 @@ Install-Package LMB.PropertyExtension
 
 Or you can download this github project and copy the PropertyExtension.cs file direct into your project.
 
-# Generic Entity Base
+## Generic Entity Base
 
 This is a template for creating entity models.
 
 By using this template, we end up with the need to duplicate entity properties in view models that represent them.
 The great advantage of this is that we exterminate the maintenance nightmare that usually entails in having to remember to mirror changes to the entity to its view models.
-
-## Where to get this extension?
 
 You can install this extension direct from Nuget:
 
