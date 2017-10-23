@@ -10,7 +10,11 @@ A set of .NET extension methods.
 
 Predicate Builder is a powerful LINQ expression that is mainly used when too many search filter parameters are used for querying data by writing dynamic query expression.
 
-You can install this extension direct from Nuget:
+You can install this extension direct from:
+
+[![Nuget](https://img.shields.io/badge/nuget-v1.0.0-blue.svg)](https://www.nuget.org/packages/LMB.PredicateBuilderExtension/)
+
+Or instal with Package Manager Console
 
 ```C#
 Install-Package LMB.PredicateBuilderExtension
