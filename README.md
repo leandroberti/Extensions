@@ -26,28 +26,17 @@ Or you can download this github project and copy the PredicateBuilderExtension.c
 
 This extension contains methods for retrieving the Name value of an attribute of type System.ComponentModel.DataAnnotations.DisplayAttribute and the DisplayName value of an attribute of type System.ComponentModel.DisplayNameAttribute.
 
-You can install this extension direct from Nuget:
+You can install this extension direct from:
+
+[![Nuget](https://img.shields.io/badge/nuget-v1.0.0-blue.svg)](https://www.nuget.org/packages/LMB.PropertyExtension/)
+
+Or instal with Package Manager Console
 
 ```C#
 Install-Package LMB.PropertyExtension
 ```
 
 Or you can download this github project and copy the PropertyExtension.cs file direct into your project.
-
-## LMB.GenericEntityBase
-
-This is a template for creating entity models.
-
-By using this template, we end up with the need to duplicate entity properties in view models that represent them.
-The great advantage of this is that we exterminate the maintenance nightmare that usually entails in having to remember to mirror changes to the entity to its view models.
-
-You can install this extension direct from Nuget:
-
-```C#
-Install-Package LMB.GenericEntityBase
-```
-
-Or you can download this github project and copy the `Entity.cs` file, along with all interfaces files, direct into your project.
 
 # Donations
 
